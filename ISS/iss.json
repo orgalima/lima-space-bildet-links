@@ -370,7 +370,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb7\/"
                 }],
@@ -388,7 +388,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb6\/"
                 }],
@@ -406,7 +406,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb5\/"
                 }],
@@ -424,7 +424,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb4\/"
                 }],
@@ -442,7 +442,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb3\/"
                 }],
@@ -460,7 +460,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb2\/"
                 }],
