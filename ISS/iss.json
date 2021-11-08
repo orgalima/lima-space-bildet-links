@@ -478,7 +478,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb1\/"
                 }],
